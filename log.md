@@ -33,8 +33,10 @@
 
 **Today's Progress**:
 ***FreeCodeCamp***. I've successfully completed `Build a Tribute Page` project.
+***HacktoberFest***. Added antd UI framework and set up App layout.
 
-**Thoughts** Even though it is not as fancy as I wanted it to be, it fulfills the userstories with simple and uncluttered styling. I am teaching myself to complete the main objectives primarily then try to incorporate some `good-to-have` elements.
+**Thoughts** `FCC`: Even though it is not as fancy as I wanted it to be, it fulfills the userstories with simple and uncluttered styling. I am teaching myself to complete the main objectives primarily then try to incorporate some `good-to-have` elements.
 
 **Link(s) to work**
 1. [Tribute Page Codepen](https://codepen.io/razi-rasheed/pen/vVdRxQ?editors=1100)
+2. [HacktoberFest](https://github.com/ShanikaEdiriweera/image-upload-app/pull/11)
