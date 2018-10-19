@@ -40,3 +40,12 @@
 **Link(s) to work**
 1. [Tribute Page Codepen](https://codepen.io/razi-rasheed/pen/vVdRxQ?editors=1100)
 2. [HacktoberFest](https://github.com/ShanikaEdiriweera/image-upload-app/pull/11)
+### Day 2: October 18, 2018 - Thursday
+
+**Today's Progress**:
+***FreeCodeCamp***. I've started with `Build a Survey Form` project.
+
+**Thoughts** I am on my short vacation. So, I am not putting in much time with a mental note that I'll make upto it once I am working again. I want to mould myself gradually into the habit of coding an hour a day for learning which is why I've started with FCC projects.
+
+**Link(s) to work**
+1. [Survey Form Codepen](https://codepen.io/razi-rasheed/pen/QZredN)
