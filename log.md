@@ -40,7 +40,7 @@
 **Link(s) to work**
 1. [Tribute Page Codepen](https://codepen.io/razi-rasheed/pen/vVdRxQ?editors=1100)
 2. [HacktoberFest](https://github.com/ShanikaEdiriweera/image-upload-app/pull/11)
-### Day 2: October 18, 2018 - Thursday
+### Day 3: October 19, 2018 - Friday
 
 **Today's Progress**:
 ***FreeCodeCamp***. I've started with `Build a Survey Form` project.
@@ -49,3 +49,10 @@
 
 **Link(s) to work**
 1. [Survey Form Codepen](https://codepen.io/razi-rasheed/pen/QZredN)
+
+### Day 4: October 22, 2018 - Friday
+
+**Today's Progress**:
+***Serverless***. I am understanding the fundamentals involved in serverless architecture. I have coded a simple `hello world` implementation too.
+
+**Thoughts** I am back from my short vacation. So, from now on I ll be putting in much more time in the area I want to understand and implement. I am planning to create a portfolio with blog web app built using Serverless architecture.
