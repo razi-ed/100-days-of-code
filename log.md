@@ -55,7 +55,7 @@
 **Today's Progress**:
 ***Serverless***. I am understanding the fundamentals involved in serverless architecture. I have coded a simple `hello world` implementation too.
 
-**Thoughts** I am back from my short vacation. So, from now on I ll be putting in much more time in the area I want to understand and implement. I am planning to create a portfolio with blog web app built using Serverless architecture.
+**Thoughts** I am back from my short vacation. So, from now on I ll be putting in much more time in the area I want to understand and implement. I am planning to build a portfolio with blog web app with Serverless architecture.
 
 ### Day 5: October 23, 2018 - Tuesday
 
