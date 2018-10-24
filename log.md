@@ -50,9 +50,16 @@
 **Link(s) to work**
 1. [Survey Form Codepen](https://codepen.io/razi-rasheed/pen/QZredN)
 
-### Day 4: October 22, 2018 - Friday
+### Day 4: October 22, 2018 - Monday
 
 **Today's Progress**:
 ***Serverless***. I am understanding the fundamentals involved in serverless architecture. I have coded a simple `hello world` implementation too.
 
 **Thoughts** I am back from my short vacation. So, from now on I ll be putting in much more time in the area I want to understand and implement. I am planning to create a portfolio with blog web app built using Serverless architecture.
+
+### Day 5: October 23, 2018 - Tuesday
+
+**Today's Progress**:
+***Prisma***. I am reading about using GraphQL server as backend and came across `Prisma` which is a great tool for my need.
+
+**Thoughts** I had spent alot of time to figure out the tech-stack to implement the architecture in my mind.
